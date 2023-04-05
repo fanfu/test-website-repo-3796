@@ -1,16 +1,20 @@
 ---
 title: Activités
 ---
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+Éthic & Tech cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
 
 ## Nos activités
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+À titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+### Low-tech
 
+* Ateliers de **fabrication d'objets** (four solaire, séchoir solaire, marmite norvégienne, garde manger, blender à pédale, germoir, éolienne, …)
+* Ateliers **Do It Yourself** (lacto-fermentation, kefir, lessive, …)
+* **Conférences**
+
+### Numérique
+
+* Formations aux **enjeux du logiciel libre**
+* Ateliers de **migration vers des outils libres**
+* Accompagnement à l'utilisation de **services éthiques**
