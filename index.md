@@ -1,6 +1,6 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# Éthic & Tech!
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Éthic & Tech! est une organisation qui a pour objet d'accompagner des collectifs et des individus à reprendre en main les technologies qu'iels utilisent au quotidien. 2 axes sont proposés : la low-tech et le numérique.
