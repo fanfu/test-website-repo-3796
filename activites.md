@@ -7,13 +7,13 @@ title: Activités
 
 À titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
 
-### Low-tech
+### Low-tech
 
 * Ateliers de **fabrication d'objets** (four solaire, séchoir solaire, marmite norvégienne, garde manger, blender à pédale, germoir, éolienne, …)
 * Ateliers **Do It Yourself** (lacto-fermentation, kefir, lessive, …)
 * **Conférences**
 
-### Numérique
+### Numérique
 
 * Formations aux **enjeux du logiciel libre**
 * Ateliers de **migration vers des outils libres**
